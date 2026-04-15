@@ -41,7 +41,7 @@ Customer churn directly impacts revenue. By predicting which customers are likel
 ## 📈 Results
 - Model Accuracy: (ADD YOUR ACTUAL NUMBER)
 - Evaluated using confusion matrix and classification report
-
+- ![Confusion Matrix](outputs/confusion_matrix.png)
 ---
 
 ## 📊 Key Insights
